@@ -1,4 +1,4 @@
-## MSc_project (Abstarct)
+## MSc_project (Abstract)
 Over the recent years our ability to model and observe young stars has increased dramatically, enabling the compilation of large catalogues of observed and in silico protostars. We have learned that accretion discs form immediately when a star is born, and that the first planets may form already while the star is still embedded inside a large, cold, and dusty envelope during the first million years.
 
 This thesis is a three part project, including observational analysis, computational modelling, and machine learning. Each individual part contributes with its own methods to collaboratively create a better understanding of the protostellar systems and their environments. 
