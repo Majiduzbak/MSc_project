@@ -10,4 +10,5 @@ The modelling part focuses on extracting relevant physical parameters from the l
 Link:
 
 The machine learning part enables a comparative analysis of synthetic and observed protostellar systems via similarity-based deep convolutional learning. By leveraging Deep Learning algorithms, we can reliably find similar images of these systems based on a similarity metric, defined by physical parameters extracted from the simulated systems. This results in a pipeline that ultimately estimates best-guesses for the physical parameters of observed protostellar systems.
-Link: github.com/Maskinelaering/Siamese
+
+Link: [github.com/Maskinelaering/Siamese](https://github.com/Maskinelaering/Siamese.git)
